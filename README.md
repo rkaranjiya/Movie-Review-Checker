@@ -10,9 +10,8 @@ Output : Image of movie/series and showing data of searched movie/series.
 
 # Prerequisites
 
-This project us and external dependency of  'BeautifulSoup' for web scrapping, 'requests' for fetching data of the webpages
+This project use external dependency of  'BeautifulSoup' for web scrapping, 'requests' for fetching data of the webpages
 These libraries can be install easily by usng pip command.
-
 
 # Author Name
 
